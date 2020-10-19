@@ -15,7 +15,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-pl
 src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img 
 src="https://devicons.github.io/devicon/devicon.git/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> <img
                                                                                                                         
-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundanchandel&layout=compact&hide=html" alt="kundanchandel" />
+align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasaagrawal&layout=compact&hide=html" alt="jigyasagrawal" />
                                                                                                                                                                            
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jigyasaagrawal&show_icons=true" alt="jigyasaagrawal" />
 
