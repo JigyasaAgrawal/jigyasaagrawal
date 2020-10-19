@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, React**
 
-- 👨‍💻 All of my projects are available at Github [https://github.com/jigyasaagrawal](https://github.com/jigyasaagrawal)
+- 👨‍💻 All of my projects are available at Github [https://github.com/JigyasaAgrawal](https://github.com/JigyasaAgrawal)
 
 - 💬 Ask me about **Data Science, Web Development**
 
