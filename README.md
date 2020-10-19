@@ -3,13 +3,9 @@
 <!--
 **JigyasaAgrawal/jigyasaagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+An software engineer from India
 
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning Machine Learning
+- 💬 Ask me about Data Science
 - 📫 How to reach me: jigyasaagrawal28@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
