@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jigyasa Agrawal</h1>
 <h3 align="center">A Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Machine Learning, React**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at Github [https://github.com/JigyasaAgrawal](https://github.com/JigyasaAgrawal)
 
-- 💬 Ask me about **Data Science, Web Development**
+- 💬 Ask me about **Data Engineering**
 
 - 📫 How to reach me **jigyasaagrawal28@gmail.com**
 
