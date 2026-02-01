@@ -27,7 +27,6 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/Curiosi64485321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Curiosi64485321" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/jigyasaagrawal/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jigyasaagrawal" height="30" width="30" /></a>
 <a href="https://instagram.com/curiosity___28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="curiosity___28" height="30" width="30" /></a>
 </p>
