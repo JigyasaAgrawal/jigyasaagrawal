@@ -25,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
   
   <!--Copilot-->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Microsoft_Copilot_Logo.svg" alt="Microsoft Copilot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/artificialintelligence.svg" width="40"/>
 </p>
 
 <p align="center">
