@@ -12,8 +12,8 @@
 <p align="left">
   <!-- Programming -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/>
-
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql-database" width="40" height="40"/>
+  
   <!-- Azure & DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" alt="azure-devops" width="40" height="40"/>
@@ -24,8 +24,6 @@
   <!-- BI -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
   
-  <!--Copilot-->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/artificialintelligence.svg" width="40"/>
 </p>
 
 <p align="center">
