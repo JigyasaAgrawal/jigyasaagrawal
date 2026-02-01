@@ -20,24 +20,13 @@
 
   <!-- Data Engineering -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="spark" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="data-engineering" width="40" height="40"/>
-
+  
   <!-- BI -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/>
-
-  <!-- Machine Learning -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="machine-learning" width="40" height="40"/>
 
   <!-- GitHub Copilot -->
   <img src="https://github.githubassets.com/images/modules/site/features/copilot/copilot.png" alt="copilot" width="40" height="40"/>
 </p>
-
-<img align="left"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasaagrawal&layout=compact&hide=html,css,javascript"
-alt="jigyasaagrawal" />
-                                       
-                                                                                                                                                                           
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigyasaagrawal&show_icons=true" alt="jigyasaagrawal" />
 
 <p align="center">
 <a href="https://twitter.com/Curiosi64485321" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Curiosi64485321" height="30" width="30" /></a>
