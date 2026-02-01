@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at Github [https://github.com/JigyasaAgrawal](https://github.com/JigyasaAgrawal)
+- 👨‍💻 Some of my projects are available at Github [https://github.com/JigyasaAgrawal](https://github.com/JigyasaAgrawal)
 
 - 💬 Ask me about **Data Engineering**
 
-- 📫 How to reach me **jigyasaagrawal28@gmail.com**
+- 📫 How to reach me **jigyasaagrawalwork9@gmail.com**
 
 <p align="left">
   <!-- Programming -->
